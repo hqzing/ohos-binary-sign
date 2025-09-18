@@ -1,0 +1,17 @@
+{
+  "name": "ohos-binary-sign",
+  "version": "0.0.1",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "sh ./build.sh"
+  },
+  "license": "MIT",
+  "description": "The npm wrapper of the OpenHarmony binary-sign-tool",
+  "bin": {
+    "ohos-binary-sign": "bin/ohos-binary-sign.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hqzing/ohos-binary-sign.git"
+  }
+}
