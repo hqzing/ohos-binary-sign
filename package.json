@@ -1,6 +1,6 @@
 {
   "name": "ohos-binary-sign",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./lib/index.js",
   "scripts": {
     "build": "sh ./build.sh"
@@ -17,7 +17,6 @@
   "files": [
     "bin/",
     "lib/",
-    "utils/",
     "platform/",
     "LICENSE",
     "NOTICE",

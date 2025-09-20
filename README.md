@@ -151,6 +151,12 @@ Synchronous version of the `selfSign()` function.
 - **Returns**
   - A string that contains the stdout of the child process.
 
+### `getBinarySignToolPath()`
+Return the path of the binary sign tool. You can spawn it in your own way.
+
+- **Returns**
+  - Path of the binary sign tool.
+
 ## More information
 - Source code repository of OpenHarmony binary-sign-tool: [link](https://gitcode.com/openharmony/developtools_hapsigner)
 - Document of OpenHarmony binary-sign-tool: [link](https://gitcode.com/openharmony/docs/blob/master/zh-cn/application-dev/tools/binary-sign-tool.md)
